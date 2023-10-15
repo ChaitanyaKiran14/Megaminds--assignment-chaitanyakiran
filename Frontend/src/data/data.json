@@ -1,0 +1,41 @@
+{
+    "Header": {
+      "title": "Digital agency that thrives on your success",
+      "paragraph": "If you are looking for an agency to help you create a remarkable presence online, you’ve come to the right place. We can help you take your business to the next level."
+    },
+    "About": {
+      "paragraph": "In today’s world, your business needs a strong digital marketing strategy to succeed. But with so many options available, how do you know where to start? Luckily, there are specialists who can help you create a tailored plan that will get results. In this article, we’ll introduce you to the world of digital marketing solutions and show you how they can benefit your business."
+     
+    },
+    "Contact": {
+      "address": "T-Hub , Hyderabad",
+      "phone": "9110385987",
+      "email": "marketingcentro@company.com",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
+    },
+    "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Consulting",
+        "text": "If you're looking for help with your business, our consulting services are here to provide guidance and support. Contact us today to learn more about our consulting services and how we can help you take your business to the next level."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Marketing",
+        "text": "Our ultimate goal is to create a strong connection between our products and consumers, and to help grow our business. If you’re interested in joining our team and helping us achieve this goal, we’d love to hear from you!"
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Development",
+        "text": "Developing a well-stack website takes time and effort, but it is worth it when you see the end result. A good web app will make your site stand out from the crowd and help you attract new visitors."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Design",
+        "text": "Creating a well-designed website takes time and effort, but it is worth it when you see the end result. A good design will make your site stand out from the crowd and help you attract new visitors."
+      }
+    ]
+  }
+  
